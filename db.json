@@ -1,0 +1,311 @@
+{
+	"Whopper": [
+		{
+			"id": "Whopper_1",
+			"name": "Whopper",
+			"img": "https://www.burgerking.com.my/upload/image/Product/8/Whopper%20Ala%20Carte.png",
+			"category": "Whopper",
+			"price": 7.29,
+			"desc": "Look who's here - THE burger to rule them all. A real meaty flame-grilled Whopper® beef patty, topped with tangy pickles, ketchup, fresh tomatoes, crisp lettuce and fresh onions, finished with creamy mayo , and served on a toasted 5\" sesame seed bun. Feeling hungry for a real meaty burger yet?",
+			"count": 1,
+			"review": [{ "user": "Buger King", "rate": 5, "text": "abcdas" }],
+			"isTrending": false
+		},
+		{
+			"id": "Whopper_2",
+			"name": "Whopper® with Cheese",
+			"img": "https://www.burgerking.com.my/upload/image/Product/9/Whopper%20With%20Cheese%20Ala%20Carte.png",
+			"category": "Whopper",
+			"price": 8.69,
+			"desc": "What else can we say, all the great taste of the WHOPPER® with cheese. A truly cheesillicious WHOPPIN' Time.",
+			"count": 1,
+			"review": [{ "user": "Buger King", "rate": 5, "text": "abcdas" }],
+			"isTrending": false
+		},
+		{
+			"id": "Whopper_3",
+			"name": "Whopper® Jr",
+			"img": "https://www.burgerking.com.my/upload/image/Product/15/Whopper%20Junior%20Ala%20Carte.png",
+			"category": "Whopper",
+			"price": 7.99,
+			"desc": "The same big WHOPPER® taste, but in a regular size. A mouth-watering, flame-grilled beef patty topped with fresh tomatoes, crisp lettuce, tangy pickles and crunchy onions, served on a toasted sesame seed bun and flavored with creamy mayo and ketchup. Ummm...yummy.",
+			"count": 1,
+			"review": [{ "user": "Buger King", "rate": 5, "text": "abcdas" }],
+			"isTrending": true
+		}
+	],
+	"Beef": [
+		{
+			"id": "Beef_1",
+			"name": "Single BBQ Beefacon®",
+			"img": "https://www.burgerking.com.my/upload/image/Product/13/BBQ%20Beefacon%20(Single)%20Ala%20Carte.png",
+			"category": "Beef",
+			"price": 5.29,
+			"desc": "Always the right choice with our Single BBQ Beefacon®. Our signature flame-grilled beef patty topped with Beefacon® , cheese and our special smokey BBQ sauce all in a toasted sesame seed bun. One of life’s simple pleasures.",
+			"count": 1,
+			"review": [{ "user": "Buger King", "rate": 5, "text": "abcdas" }],
+			"isTrending": false
+		},
+		{
+			"id": "Beef_2",
+			"name": "Double BBQ Beefacon®",
+			"img": "https://www.burgerking.com.my/upload/image/Product/14/BBQ%20Beefacon%20(Double)%20Ala%20Carte.png",
+			"category": "Beef",
+			"price": 6.29,
+			"desc": "Double it up...Double the taste!!\n        Grab hold of our Double BBQ Beefacon® with cheese slices, Beefacon® and delicious smokey BBQ sauce to complete the sensational taste.",
+			"count": 1,
+			"review": [{ "user": "Buger King", "rate": 5, "text": "abcdas" }],
+			"isTrending": false
+		},
+		{
+			"id": "Beef_3",
+			"name": "Single Mushroom Swiss",
+			"img": "https://www.burgerking.com.my/upload/image/Product/11/BBQ%20Mushroom%20Swiss%20(Single)%20Ala%20Carte.png",
+			"category": "Beef",
+			"price": 6,
+			"desc": "A creation like no other! Creamy subtle taste of mushroom and melted swiss cheese with perfectly grilled beef patties served with soft sesame buns. Mush-room for your tummy to be filled!",
+			"count": 1,
+			"review": [{ "user": "Buger King", "rate": 5, "text": "abcdas" }],
+			"isTrending": true
+		},
+		{
+			"id": "Beef_4",
+			"name": "Double Mushroom Swiss",
+			"img": "https://www.burgerking.com.my/upload/image/Product/12/BBQ%20Mushroom%20Swiss%20(Double)%20Ala%20Carte.png",
+			"category": "Beef",
+			"price": 7,
+			"desc": "Can't get enough of that heavenly creamy taste? Go for double the goodness! Melted Swiss cheese on two flame-grilled beef patties, topped with BK's special mushroom sauce, served on a sesame seed bun. Twice the velvety goodness in every bite",
+			"count": 1,
+			"review": [{ "user": "Buger King", "rate": 5, "text": "abcdas" }],
+			"isTrending": false
+		},
+		{
+			"id": "Beef_5",
+			"name": "Cheeseburger",
+			"img": "https://www.burgerking.com.my/upload/image/Product/16/Cheeseburger%20(Single)%20Ala%20Carte.png",
+			"category": "Beef",
+			"price": 1.69,
+			"desc": "You can’t go wrong with our cheeseburger, a signature flame-grilled beef patty topped with a simple layer of melted American cheese, crinkle cut pickles, yellow mustard, and ketchup on a toasted sesame seed bun.",
+			"count": 1,
+			"review": [{ "user": "Buger King", "rate": 5, "text": "abcdas" }],
+			"isTrending": false
+		},
+		{
+			"id": "Beef_6",
+			"name": "Double Cheeseburger",
+			"img": "https://www.burgerking.com.my/upload/image/Product/56/Cheeseburger%20(Double)%20Ala%20Carte.png",
+			"category": "Beef",
+			"price": 2.39,
+			"desc": "Make room for our Double Cheeseburger, two signature flame-grilled beef patties topped with a simple layer of melted American cheese, crinkle cut pickles, yellow mustard, and ketchup on a toasted sesame seed bun.",
+			"count": 1,
+			"review": [{ "user": "Buger King", "rate": 5, "text": "abcdas" }],
+			"isTrending": false
+		},
+		{
+			"id": "Beef_7",
+			"name": "Long Cheesy Onion Beef",
+			"img": "https://www.burgerking.com.my/upload/image/Product/116/Cheesy%20Onion%20Long%20Beef%20Ala%20Carte.png",
+			"category": "Beef",
+			"price": 3.19,
+			"desc": "Meet the Long Cheesy Onion Beef burger! Featuring 2 pieces of our signature flame-grilled beef patties topped with Nachos Cheese sauce, mayonnaise, mustard, pickles and fresh onions served between two long sesame seed buns - this tender and juicy burger is what you’re looking for!",
+			"count": 1,
+			"review": [{ "user": "Buger King", "rate": 5, "text": "abcdas" }],
+			"isTrending": false
+		}
+	],
+	"Chicken": [
+		{
+			"id": "Chicken_1",
+			"name": "BK Chick'N Crisp",
+			"img": "https://www.burgerking.com.my/upload/image/Product/5/Chick%20N%20Crisp%20Ala%20Carte.png",
+			"category": "Chicken ",
+			"price": 5.99,
+			"desc": "Some call it “Chicken Crisp”. Others call it “Chick and Crisp”. Whatever you call it, you’ll get a yummyliciously crispy chicken fillet topped with garden-fresh lettuce and creamy mayo, served on a sesame seed bun. The fusion of textures, tastes and aromas is a winner — ‘N there’s no doubt about that.",
+			"count": 1,
+			"review": [{ "user": "Buger King", "rate": 5, "text": "abcdas" }],
+			"isTrending": false
+		},
+		{
+			"id": "Chicken_2",
+			"name": "Spicy Tendercrisp",
+			"img": "https://www.burgerking.com.my/upload/image/Product/3/Tendercrisp%20Ala%20Carte.png",
+			"category": "Chicken",
+			"price": 5.49,
+			"desc": "Like your chicken crispy, or tender? Why not both? The Tendercrisp™ patty - made from chicken thigh to be crispy outside and tender inside - is topped with a tomato slice, freshly shredded lettuce and creamy mayo, then served on a fragrant sesame seed bun. Perfect for those who want the best of both worlds.",
+			"count": 1,
+			"review": [{ "user": "Buger King", "rate": 5, "text": "abcdas" }],
+			"isTrending": false
+		},
+		{
+			"id": "Chicken_3",
+			"name": "Tendergrill",
+			"img": "https://www.burgerking.com.my/upload/image/Product/86/Tendergrill%20Ala%20Carte.png",
+			"category": "Chicken",
+			"price": 5.49,
+			"desc": "Wonder why it's called Tendergrill™? That's 'cos we made sure to flame-grill the chicken thighs to soft, juicy perfection. Best enjoyed with fries and soft drink.",
+			"count": 1,
+			"review": [{ "user": "Buger King", "rate": 5, "text": "abcdas" }],
+			"isTrending": false
+		},
+		{
+			"id": "Chicken_4",
+			"name": "French Chicken",
+			"img": "https://www.burgerking.com.my/upload/image/Product/101/J1001846-BKMY-FRENCHCHICKENCOMEBACK-WEBSITESKU-500x540.png",
+			"category": "Chicken",
+			"price": 5,
+			"desc": "Bonjour! The beauty that was created for an everlasting love. Crispy long chicken patty with a combination of chicken strips, melted Swiss cheese and creamy mayo sandwiched between two long sesame seed buns. A definite top favourite!",
+			"count": 1,
+			"review": [{ "user": "Buger King", "rate": 5, "text": "abcdas" }],
+			"isTrending": false
+		},
+		{
+			"id": "Chicken_5",
+			"name": "Long Chicken",
+			"img": "https://www.burgerking.com.my/upload/image/Product/2/Long%20Chicken%20Ala%20Carte.png",
+			"category": "Chicken",
+			"price": 4.99,
+			"desc": "Delightfully tasty crispy chicken fillet topped with shredded lettuce and creamy mayo, and served on a 7” sesame seed bun-made extra long because we know you don't want the delicious bites to end so quickly.",
+			"count": 1,
+			"review": [{ "user": "Buger King", "rate": 5, "text": "abcdas" }],
+			"isTrending": false
+		},
+		{
+			"id": "Chicken_6",
+			"name": "Crispy Fried Chicken",
+			"img": "https://www.burgerking.com.my/upload/image/Product/90/Crispy%20Fried%20Chicken.png",
+			"category": "Chicken",
+			"price": 4.99,
+			"desc": "Crunchy on the outside. Juicy on the inside. Be warned, our fried chicken can be pretty addictive. Comes with Coke and salad or fries",
+			"count": 1,
+			"review": [{ "user": "Buger King", "rate": 5, "text": "abcdas" }],
+			"isTrending": true
+		}
+	],
+	"Veggies": [
+		{
+			"id": "Veggies_1",
+			"name": "Mushroom Veggie Burger",
+			"img": "https://www.burgerking.com.my/upload/image/Product/67/Mushroom%20Veggie%20Ala%20Carte.png",
+			"category": "Salads and Veggies ",
+			"price": 3,
+			"desc": "Here's an option for our Veggie-loving friends! Our Mushroom Veggie Burger features our famous chunky mushroom in special sauce combination that compliments the burger so well, it's like a party in your mouth.",
+			"count": 1,
+			"review": [{ "user": "Buger King", "rate": 5, "text": "abcdas" }],
+			"isTrending": false
+		},
+		{
+			"id": "Veggies_2",
+			"name": "Salad",
+			"img": "https://www.burgerking.com.my/upload/image/Product/68/Salad.png",
+			"category": "Salads and Veggies ",
+			"price": 1.99,
+			"desc": "Something light on the tummy but super packed with great nutrients. Come enjoy our salad bowl with special sauce on its own or swap it with fries when you order your next BK meal!",
+			"count": 1,
+			"review": [{ "user": "Buger King", "rate": 5, "text": "abcdas" }],
+			"isTrending": false
+		}
+	],
+	"Dessert": [
+		{
+			"id": "Dessert_1",
+			"name": "Apple Pie",
+			"img": "https://www.burgerking.com.my/upload/image/Product/41/Apple%20Pie.png",
+			"category": "Dessert",
+			"price": 1,
+			"desc": "Sweet Apple chunks in a crispy pie crust. It'll win you over in a bite! Perfect after meals",
+			"count": 1,
+			"review": [{ "user": "Buger King", "rate": 5, "text": "abcdas" }],
+			"isTrending": true
+		},
+		{
+			"id": "Dessert_2",
+			"name": "HERSHEY’S Sundae Pie",
+			"img": "https://www.burgerking.com.my/upload/image/Product/118/Hershey%20Pie.png",
+			"category": "Dessert",
+			"price": 2.49,
+			"desc": "Say hello to our HERSHEY’S® Sundae Pie. One part crunchy chocolate crust and one part chocolate crème filling, garnished with a delicious topping of fudge drizzle and real HERSHEY’S® Chocolate Chips.",
+			"count": 1,
+			"review": [{ "user": "Buger King", "rate": 5, "text": "abcdas" }],
+			"isTrending": true
+		},
+		{
+			"id": "Dessert_3",
+			"name": "Banana Pie",
+			"img": "https://www.burgerking.com.my/upload/image/Product/119/Banana%20Pie.png",
+			"category": "Dessert",
+			"price": 2.29,
+			"desc": "Sweet banana chuncks in crispy pie crust. It'll win you over in a bite! Perfect after meals.",
+			"count": 1,
+			"review": [{ "user": "Buger King", "rate": 5, "text": "abcdas" }],
+			"isTrending": false
+		}
+	],
+	"Beverage": [
+		{
+			"id": "Beverage_1",
+			"name": "Mineral Water",
+			"img": "https://www.burgerking.com.my/upload/image/Product/25/Mineral%20Water.png",
+			"category": "Beverage",
+			"price": 0.5,
+			"desc": "Cool down with our Mineral water, it sure does quench your thirst!",
+			"count": 1,
+			"review": [{ "user": "Buger King", "rate": 5, "text": "abcdas" }],
+			"isTrending": false
+		},
+		{
+			"id": "Beverage_2",
+			"name": "Americano",
+			"img": "https://www.burgerking.com.my/upload/image/Product/32/Ice%20Americano.png",
+			"category": "Beverage",
+			"price": 2,
+			"desc": "Espresso combined with water. Same strength as drip coffee, but a different flavor. Try it!. Hot & Iced Americano are available.",
+			"count": 1,
+			"review": [{ "user": "Buger King", "rate": 5, "text": "abcdas" }],
+			"isTrending": false
+		},
+		{
+			"id": "Beverage_1",
+			"name": "Latte",
+			"img": "https://www.burgerking.com.my/upload/image/Product/33/Hot%20Latte.png",
+			"category": "Beverage",
+			"price": 2,
+			"desc": "Makes mornings worth waking up for. Espresso and milk. Hot & Iced Latte are available.",
+			"count": 1,
+			"review": [{ "user": "Buger King", "rate": 5, "text": "abcdas" }],
+			"isTrending": false
+		},
+		{
+			"id": "Beverage_1",
+			"name": "Hot Tea",
+			"img": "https://www.burgerking.com.my/upload/image/Product/27/Hot%20Tea.png",
+			"category": "Beverage",
+			"price": 1,
+			"desc": "A tea lover will always find a way to enjoy it. You can now enjoy at BK. Perfect for relaxation.",
+			"count": 1,
+			"review": [{ "user": "Buger King", "rate": 5, "text": "abcdas" }],
+			"isTrending": false
+		},
+		{
+			"id": "Beverage_1",
+			"name": "Chocolate",
+			"img": "https://www.burgerking.com.my/upload/image/Product/121/Hot%20Chocolate.png",
+			"category": "Beverage",
+			"price": 2,
+			"desc": "Hot & Iced Chocolate are available",
+			"count": 1,
+			"review": [{ "user": "Buger King", "rate": 5, "text": "abcdas" }],
+			"isTrending": false
+		},
+		{
+			"id": "Beverage_1",
+			"name": "Ice Sjora",
+			"img": "https://www.burgerking.com.my/upload/image/Product/40/Ice%20Sjora.png",
+			"category": "Beverage",
+			"price": 2,
+			"desc": "You wanna be refreshed? Here’s what you should have",
+			"count": 1,
+			"review": [{ "user": "Buger King", "rate": 5, "text": "abcdas" }],
+			"isTrending": false
+		}
+	]
+}
