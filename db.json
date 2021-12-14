@@ -1,5 +1,31 @@
 {
-	"Whopper": [
+	"categories": [
+		{
+			"id": 1,
+			"name": "Whopper"
+		},
+		{
+			"id": 2,
+			"name": "Beef"
+		},
+		{
+			"id": 3,
+			"name": "Chicken"
+		},
+		{
+			"id": 4,
+			"name": "Veggies"
+		},
+		{
+			"id": 5,
+			"name": "Dessert"
+		},
+		{
+			"id": 6,
+			"name": "Beverage"
+		}
+	],
+	"product": [
 		{
 			"id": "Whopper_1",
 			"name": "Whopper",
@@ -32,9 +58,7 @@
 			"count": 1,
 			"review": [{ "user": "Buger King", "rate": 5, "text": "abcdas" }],
 			"isTrending": true
-		}
-	],
-	"Beef": [
+		},
 		{
 			"id": "Beef_1",
 			"name": "Single BBQ Beefacon®",
@@ -111,9 +135,7 @@
 			"count": 1,
 			"review": [{ "user": "Buger King", "rate": 5, "text": "abcdas" }],
 			"isTrending": false
-		}
-	],
-	"Chicken": [
+		},
 		{
 			"id": "Chicken_1",
 			"name": "BK Chick'N Crisp",
@@ -179,9 +201,7 @@
 			"count": 1,
 			"review": [{ "user": "Buger King", "rate": 5, "text": "abcdas" }],
 			"isTrending": true
-		}
-	],
-	"Veggies": [
+		},
 		{
 			"id": "Veggies_1",
 			"name": "Mushroom Veggie Burger",
@@ -203,9 +223,7 @@
 			"count": 1,
 			"review": [{ "user": "Buger King", "rate": 5, "text": "abcdas" }],
 			"isTrending": false
-		}
-	],
-	"Dessert": [
+		},
 		{
 			"id": "Dessert_1",
 			"name": "Apple Pie",
@@ -238,9 +256,7 @@
 			"count": 1,
 			"review": [{ "user": "Buger King", "rate": 5, "text": "abcdas" }],
 			"isTrending": false
-		}
-	],
-	"Beverage": [
+		},
 		{
 			"id": "Beverage_1",
 			"name": "Mineral Water",
