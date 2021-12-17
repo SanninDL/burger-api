@@ -1,0 +1,33 @@
+@baseUrl = https://d-burger-api.herokuapp.com
+
+GET {{baseUrl}}/categories
+
+
+###
+GET {{baseUrl}}/products?categoryId=1
+###
+# Sort
+GET {{baseUrl}}/products?categoryId=2&_sort=price&_order=asc
+
+
+
+###
+
+POST {{baseUrl}}/categories
+Content-Type: application/json 
+
+{
+    "name": "Breakfast"
+}
+
+### update
+
+PATCH {{baseUrl}}/categories/7
+Content-Type: application/json 
+
+{
+    "name": "Sides"
+}
+
+###
+DELETE {{baseUrl}}/categories/8
