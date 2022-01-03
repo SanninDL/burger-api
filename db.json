@@ -34,7 +34,7 @@
 	"products": [
 		{
 			"id": "picker_1",
-			"categoryId": 1,
+			"categoryId": [1],
 			"name": "Whopper",
 			"image": "https://cdn.sanity.io/images/czqk28jt/prod_bk_us/84743a96a55cb36ef603c512d5b97c9141c40a33-1333x1333.png?w=750&q=40&fit=max&auto=format",
 			"description": "Our Whopper Sandwich is a ¼ lb* of savory flame-grilled beef topped with juicy tomatoes, fresh lettuce, creamy mayonnaise, ketchup, crunchy pickles, and sliced white onions on a soft sesame seed bun.",
@@ -320,7 +320,7 @@
 		},
 		{
 			"id": "picker_2",
-			"categoryId": 1,
+			"categoryId": [1],
 			"name": "Impossible Whopper",
 			"image": "https://cdn.sanity.io/images/czqk28jt/prod_bk_us/238e287aa4d92d6e0cc4783e397b6e7386cd2e47-1333x1333.png?w=750&q=40&fit=max&auto=format",
 			"description": "Features a flame-grilled patty made from plants topped with tomatoes, lettuce, mayo, ketchup, pickles, and onions. *For guests looking for a meat-free option, a non-broiler method of preparation is available upon request.",
@@ -606,7 +606,7 @@
 		},
 		{
 			"id": "picker_3",
-			"categoryId": 1,
+			"categoryId": [1],
 			"name": "Bacon King",
 			"image": "https://cdn.sanity.io/images/czqk28jt/prod_bk_us/60712f81a07316d3300b65823ab68b59def70c8e-1333x1333.png?w=750&q=40&fit=max&auto=format",
 			"description": "Our Bacon King Sandwich features two ¼ lb* savory flame-grilled beef patties, topped a with hearty portion of thick-cut smoked bacon, melted American cheese and topped with ketchup and creamy mayonnaise all on a soft sesame seed bun.",
@@ -892,7 +892,7 @@
 		},
 		{
 			"id": "picker_4",
-			"categoryId": 1,
+			"categoryId": [1],
 			"name": "Double Whopper",
 			"image": "https://cdn.sanity.io/images/czqk28jt/prod_bk_us/741f937b50b66ff1f6314046458cf3a4ffe30d8d-1333x1333.png?w=750&q=40&fit=max&auto=format",
 			"description": "Our Double Whopper Sandwich is a pairing of two ¼ lb* savory flame-grilled beef patties topped with juicy tomatoes, fresh lettuce, creamy mayonnaise, ketchup, crunchy pickles, and sliced white onions on a soft sesame seed bun.",
@@ -1178,7 +1178,7 @@
 		},
 		{
 			"id": "picker_5",
-			"categoryId": 1,
+			"categoryId": [1],
 			"name": "Triple Whopper With Cheese",
 			"image": "https://cdn.sanity.io/images/czqk28jt/prod_bk_us/f3d7588c1f46ad6a1afaa3404cec65ed6053879f-1333x1333.png?w=750&q=40&fit=max&auto=format",
 			"description": "Our Triple Whopper Sandwich features three ¼ lb* savory flame-grilled beef patties topped with melted American cheese, juicy tomatoes, fresh lettuce, creamy mayonnaise, ketchup, crunchy pickles, and sliced white onions on a soft sesame seed bun.",
@@ -1464,7 +1464,7 @@
 		},
 		{
 			"id": "picker_6",
-			"categoryId": 1,
+			"categoryId": [1],
 			"name": "Whopper Jr.",
 			"image": "https://cdn.sanity.io/images/czqk28jt/prod_bk_us/a186587fa5489876daa7a480d72aa517ddfed595-1333x1333.png?w=750&q=40&fit=max&auto=format",
 			"description": "Our Whopper Jr. Sandwich features one savory flame-grilled beef patty topped with juicy tomatoes, fresh lettuce, creamy mayonnaise, ketchup, crunchy pickles, and sliced white onions on a soft sesame seed bun. Served with a small side of piping hot, thick cut french fries or golden onion rings and a small fountain drink of your choice to make it a meal.",
@@ -1750,7 +1750,7 @@
 		},
 		{
 			"id": "picker_7",
-			"categoryId": 1,
+			"categoryId": [1],
 			"name": "Double Cheeseburger",
 			"image": "https://cdn.sanity.io/images/czqk28jt/prod_bk_us/d768068525857a6eba6d23b9bdc8190aa4a29b11-1333x1333.png?w=750&q=40&fit=max&auto=format",
 			"description": "Make room for our Double Cheeseburger, two signature flame-grilled beef patties topped with a simple layer of melted American cheese, crinkle cut pickles, yellow mustard, and ketchup on a toasted sesame seed bun. *Weight based on pre-cooked patty",
@@ -2036,7 +2036,7 @@
 		},
 		{
 			"id": "picker_8",
-			"categoryId": 1,
+			"categoryId": [1],
 			"name": "Bacon Double Cheeseburger",
 			"image": "https://cdn.sanity.io/images/czqk28jt/prod_bk_us/3dc8729db35e4905f577ba9af065662299415970-1333x1333.png?w=750&q=40&fit=max&auto=format",
 			"description": "Make room for our Bacon Double Cheeseburger, two signature flame-grilled beef patties topped with smoked bacon and a simple layer of melted American cheese, crinkle cut pickles, yellow mustard, and ketchup on a toasted sesame seed bun.",
@@ -2322,7 +2322,7 @@
 		},
 		{
 			"id": "picker_9",
-			"categoryId": 1,
+			"categoryId": [1],
 			"name": "Bacon Cheeseburger",
 			"image": "https://cdn.sanity.io/images/czqk28jt/prod_bk_us/2ab802b49c46f0512bf084bf53579d8bafe31e95-1333x1333.png?w=750&q=40&fit=max&auto=format",
 			"description": "You can’t go wrong with our Bacon Cheeseburger, a signature flame-grilled beef patty topped with smoked bacon and a layer of melted American cheese, crinkle cut pickles, yellow mustard, and ketchup on a toasted sesame seed bun.",
@@ -2608,7 +2608,7 @@
 		},
 		{
 			"id": "picker_10",
-			"categoryId": 1,
+			"categoryId": [1],
 			"name": "Cheeseburger",
 			"image": "https://cdn.sanity.io/images/czqk28jt/prod_bk_us/fea26b68e7476b145767edb173a348e613c4dfb5-1333x1333.png?w=750&q=40&fit=max&auto=format",
 			"description": "Our Cheeseburger is a signature flame-grilled beef patty topped with a simple layer of melted American cheese, crinkle cut pickles, yellow mustard, and ketchup on a toasted sesame seed bun.",
@@ -2894,7 +2894,7 @@
 		},
 		{
 			"id": "picker_11",
-			"categoryId": 1,
+			"categoryId": [1],
 			"name": "Hamburger",
 			"image": "https://cdn.sanity.io/images/czqk28jt/prod_bk_us/28f37c5a4018fc3c167a119948c36e21d08d6a31-1333x1333.png?w=750&q=40&fit=max&auto=format",
 			"description": "Our Hamburger is a signature flame-grilled beef patty topped with a simple layer of crinkle cut pickles, yellow mustard, and ketchup on a toasted sesame seed bun.",
@@ -3180,7 +3180,7 @@
 		},
 		{
 			"id": "picker_12",
-			"categoryId": 1,
+			"categoryId": [1],
 			"name": "Rodeo Burger",
 			"image": "https://cdn.sanity.io/images/czqk28jt/prod_bk_us/89605b9eb093decb45f2ad2b53d410d722250982-1333x1333.png?w=750&q=40&fit=max&auto=format",
 			"description": "",
@@ -3466,7 +3466,7 @@
 		},
 		{
 			"id": "picker_13",
-			"categoryId": 2,
+			"categoryId": [2],
 			"name": "4PC Nuggets",
 			"image": "https://cdn.sanity.io/images/czqk28jt/prod_bk_us/be575766437c7a4461c097922b8de91438bdce9d-1333x1333.png?w=750&q=40&fit=max&auto=format",
 			"description": "Made with white meat, our bite-sized Chicken Nuggets are tender and juicy on the inside and crispy on the outside. Coated in a homestyle seasoned breading, they are perfect for dipping in any of our delicious dipping sauces.",
@@ -3554,7 +3554,7 @@
 		},
 		{
 			"id": "picker_14",
-			"categoryId": 2,
+			"categoryId": [2],
 			"name": "8PC Nuggets",
 			"image": "https://cdn.sanity.io/images/czqk28jt/prod_bk_us/c9b464392dc47170833906e5956f40d3b9b811dc-1333x1333.png?w=750&q=40&fit=max&auto=format",
 			"description": "Made with white meat, our bite-sized Chicken Nuggets are tender and juicy on the inside and crispy on the outside. Coated in a homestyle seasoned breading, they are perfect for dipping in any of our delicious dipping sauces.",
@@ -4041,7 +4041,7 @@
 		},
 		{
 			"id": "picker_15",
-			"categoryId": 2,
+			"categoryId": [2],
 			"name": "16PC Chicken Nuggets",
 			"image": "https://cdn.sanity.io/images/czqk28jt/prod_bk_us/7ce08ea5901b04068d40e9d7d75a5709a6050364-1333x1333.png?w=750&q=40&fit=max&auto=format",
 			"description": "Made with white meat, our bite-sized Chicken Nuggets are tender and juicy on the inside and crispy on the outside. Coated in a homestyle seasoned breading, they are perfect for dipping in any of our delicious dipping sauces.",
@@ -4528,7 +4528,7 @@
 		},
 		{
 			"id": "picker_16",
-			"categoryId": 2,
+			"categoryId": [2],
 			"name": "Ch'King Sandwich",
 			"image": "https://cdn.sanity.io/images/czqk28jt/prod_bk_us/c51adea9d284353f890808a54df049a02247d85c-1333x1333.png?w=750&q=40&fit=max&auto=format",
 			"description": "",
@@ -4814,7 +4814,7 @@
 		},
 		{
 			"id": "picker_17",
-			"categoryId": 2,
+			"categoryId": [2],
 			"name": "Spicy Ch'King Sandwich",
 			"image": "https://cdn.sanity.io/images/czqk28jt/prod_bk_us/da331f23141c8ea0b12338552843904854881361-1333x1333.png?w=750&q=40&fit=max&auto=format",
 			"description": "",
@@ -5100,7 +5100,7 @@
 		},
 		{
 			"id": "picker_18",
-			"categoryId": 2,
+			"categoryId": [2],
 			"name": "Ch'King Deluxe Sandwich",
 			"image": "https://cdn.sanity.io/images/czqk28jt/prod_bk_us/c94fb74dbce0c5f3ff082769604536f11c3b6faa-1333x1333.png?w=750&q=40&fit=max&auto=format",
 			"description": "",
@@ -5386,7 +5386,7 @@
 		},
 		{
 			"id": "picker_19",
-			"categoryId": 2,
+			"categoryId": [2],
 			"name": "Chicken Fries",
 			"image": "https://cdn.sanity.io/images/czqk28jt/prod_bk_us/840fba2112775ceeff32c96d1ac01131b7e96a03-1333x1333.png?w=750&q=40&fit=max&auto=format",
 			"description": "Made with white meat chicken, our Chicken Fries are coated in a light crispy breading seasoned with savory spices and herbs. Chicken Fries are shaped like fries and are perfect to dip in any of our delicious dipping sauces. Choose from BBQ, Honey Mustard, Ranch, Zesty, Buffalo and Sweet & Sour.",
