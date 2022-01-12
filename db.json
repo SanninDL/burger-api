@@ -34,7 +34,7 @@
 	"products": [
 		{
 			"id": "picker_1",
-			"categoryId": [1, 2, 3],
+			"categoryId": [1],
 			"name": "Whopper",
 			"image": "https://cdn.sanity.io/images/czqk28jt/prod_bk_us/84743a96a55cb36ef603c512d5b97c9141c40a33-1333x1333.png?w=750&q=40&fit=max&auto=format",
 			"description": "Our Whopper Sandwich is a ¼ lb* of savory flame-grilled beef topped with juicy tomatoes, fresh lettuce, creamy mayonnaise, ketchup, crunchy pickles, and sliced white onions on a soft sesame seed bun.",
@@ -3466,8 +3466,8 @@
 		},
 		{
 			"id": "picker_13",
-			"categoryId": [2],
-			"name": "4PC Nuggets",
+			"categoryId": [2, 3],
+			"name": "4PC Chicken Nuggets",
 			"image": "https://cdn.sanity.io/images/czqk28jt/prod_bk_us/be575766437c7a4461c097922b8de91438bdce9d-1333x1333.png?w=750&q=40&fit=max&auto=format",
 			"description": "Made with white meat, our bite-sized Chicken Nuggets are tender and juicy on the inside and crispy on the outside. Coated in a homestyle seasoned breading, they are perfect for dipping in any of our delicious dipping sauces.",
 			"quantity": 1,
@@ -3554,8 +3554,8 @@
 		},
 		{
 			"id": "picker_14",
-			"categoryId": [2],
-			"name": "8PC Nuggets",
+			"categoryId": [2, 3],
+			"name": "8PC Chicken Nuggets",
 			"image": "https://cdn.sanity.io/images/czqk28jt/prod_bk_us/c9b464392dc47170833906e5956f40d3b9b811dc-1333x1333.png?w=750&q=40&fit=max&auto=format",
 			"description": "Made with white meat, our bite-sized Chicken Nuggets are tender and juicy on the inside and crispy on the outside. Coated in a homestyle seasoned breading, they are perfect for dipping in any of our delicious dipping sauces.",
 			"quantity": 1,
@@ -5386,7 +5386,7 @@
 		},
 		{
 			"id": "picker_19",
-			"categoryId": [2],
+			"categoryId": [2, 3],
 			"name": "Chicken Fries",
 			"image": "https://cdn.sanity.io/images/czqk28jt/prod_bk_us/840fba2112775ceeff32c96d1ac01131b7e96a03-1333x1333.png?w=750&q=40&fit=max&auto=format",
 			"description": "Made with white meat chicken, our Chicken Fries are coated in a light crispy breading seasoned with savory spices and herbs. Chicken Fries are shaped like fries and are perfect to dip in any of our delicious dipping sauces. Choose from BBQ, Honey Mustard, Ranch, Zesty, Buffalo and Sweet & Sour.",
