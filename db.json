@@ -6057,7 +6057,7 @@
 		{
 			"id": "picker_22",
 			"categoryId": [3],
-			"name": "Jalapeno Cheddar Bites 4 Piece",
+			"name": "Jalapeno Cheddar Bites",
 			"image": "https://cdn.sanity.io/images/czqk28jt/prod_bk_us/30c21ff0e176f2e8d25d8450f8631a2895ac1e09-1333x1333.png?w=750&q=40&fit=max&auto=format",
 			"description": "Our Jalapeño Cheddar Bites are filled with gooey cheddar cheese and spicy jalapeño pieces, covered in a light, crispy coating. Served hot and melty with your order.",
 			"quantity": 1,
@@ -6076,7 +6076,7 @@
 						},
 						{
 							"value": "pickeraspectvaluesizelarge",
-							"name": "Small",
+							"name": "8 Piece",
 							"description": "",
 							"image": "https://cdn.sanity.io/images/czqk28jt/prod_bk_us/2b0ffde13a1ad488e22cf524356b60b60bedface-400x266.png?w=320&q=40&fit=max&auto=format",
 							"price": 1.99
@@ -6087,10 +6087,10 @@
 			"options": [
 				{
 					"pickerValue": "pickeraspectvaluesizesmall",
-					"name": "Jalapeno Cheddar Bites 4 Piece 4 Piece",
+					"name": "Jalapeno Cheddar Bites 4 Piece",
 					"mainItem": {
 						"_id": "item_33_Small",
-						"name": "Jalapeno Cheddar Bites 4 Piece 4 Piece",
+						"name": "Jalapeno Cheddar Bites 4 Piece",
 						"description": "",
 						"image": ""
 					},
@@ -6098,10 +6098,10 @@
 				},
 				{
 					"pickerValue": "pickeraspectvaluesizelarge",
-					"name": "Jalapeno Cheddar Bites 4 Piece Small",
+					"name": "Jalapeno Cheddar Bites 8 Piece",
 					"mainItem": {
 						"_id": "item_33_Large",
-						"name": "Jalapeno Cheddar Bites 4 Piece 8 Piece",
+						"name": "Jalapeno Cheddar Bites 8 Piece",
 						"description": "",
 						"image": ""
 					},
@@ -6112,7 +6112,7 @@
 		{
 			"id": "picker_23",
 			"categoryId": [3],
-			"name": "Mozzarella Sticks 4 Piece",
+			"name": "Mozzarella Sticks",
 			"image": "https://cdn.sanity.io/images/czqk28jt/prod_bk_us/ee7f1bd6fe6ea57b4e5d03812c9cb027394197da-1333x1333.png?w=750&q=40&fit=max&auto=format",
 			"description": "Try our delicious Mozzarella cheese sticks. Served with marinara dipping sauce, Mozzarella sticks are always a great snack",
 			"quantity": 1,
@@ -6131,7 +6131,7 @@
 						},
 						{
 							"value": "pickeraspectvaluesizelarge",
-							"name": "Small",
+							"name": "8 Piece",
 							"description": "",
 							"image": "https://cdn.sanity.io/images/czqk28jt/prod_bk_us/2b0ffde13a1ad488e22cf524356b60b60bedface-400x266.png?w=320&q=40&fit=max&auto=format",
 							"price": 4.69
@@ -6142,10 +6142,10 @@
 			"options": [
 				{
 					"pickerValue": "pickeraspectvaluesizesmall",
-					"name": "Mozzarella Sticks 4 Piece 4 Piece",
+					"name": "Mozzarella Sticks 4 Piece",
 					"mainItem": {
 						"_id": "item_34_Small",
-						"name": "Mozzarella Sticks 4 Piece 4 Piece",
+						"name": "Mozzarella Sticks 4 Piece",
 						"description": "",
 						"image": ""
 					},
@@ -6153,10 +6153,10 @@
 				},
 				{
 					"pickerValue": "pickeraspectvaluesizelarge",
-					"name": "Mozzarella Sticks 4 Piece Small",
+					"name": "Mozzarella Sticks 8 Piece ",
 					"mainItem": {
 						"_id": "item_34_Large",
-						"name": "Mozzarella Sticks 4 Piece 8 Piece",
+						"name": "Mozzarella Sticks 8 Piece",
 						"description": "",
 						"image": ""
 					},
