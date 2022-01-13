@@ -316,7 +316,8 @@
 						}
 					]
 				}
-			]
+			],
+			"promotion": -2
 		},
 		{
 			"id": "picker_2",
@@ -602,7 +603,8 @@
 						}
 					]
 				}
-			]
+			],
+			"promotion": null
 		},
 		{
 			"id": "picker_3",
@@ -888,7 +890,8 @@
 						}
 					]
 				}
-			]
+			],
+			"promotion": -1
 		},
 		{
 			"id": "picker_4",
@@ -1174,7 +1177,8 @@
 						}
 					]
 				}
-			]
+			],
+			"promotion": -1
 		},
 		{
 			"id": "picker_5",
@@ -1460,7 +1464,8 @@
 						}
 					]
 				}
-			]
+			],
+			"promotion": null
 		},
 		{
 			"id": "picker_6",
@@ -1746,7 +1751,8 @@
 						}
 					]
 				}
-			]
+			],
+			"promotion": null
 		},
 		{
 			"id": "picker_7",
@@ -2032,7 +2038,8 @@
 						}
 					]
 				}
-			]
+			],
+			"promotion": null
 		},
 		{
 			"id": "picker_8",
@@ -2318,7 +2325,8 @@
 						}
 					]
 				}
-			]
+			],
+			"promotion": null
 		},
 		{
 			"id": "picker_9",
@@ -2604,7 +2612,8 @@
 						}
 					]
 				}
-			]
+			],
+			"promotion": null
 		},
 		{
 			"id": "picker_10",
@@ -2890,7 +2899,8 @@
 						}
 					]
 				}
-			]
+			],
+			"promotion": null
 		},
 		{
 			"id": "picker_11",
@@ -3176,7 +3186,8 @@
 						}
 					]
 				}
-			]
+			],
+			"promotion": null
 		},
 		{
 			"id": "picker_12",
@@ -3462,7 +3473,8 @@
 						}
 					]
 				}
-			]
+			],
+			"promotion": null
 		},
 		{
 			"id": "picker_13",
@@ -3550,7 +3562,8 @@
 						}
 					]
 				}
-			]
+			],
+			"promotion": -0.5
 		},
 		{
 			"id": "picker_14",
@@ -4037,7 +4050,8 @@
 						}
 					]
 				}
-			]
+			],
+			"promotion": -1
 		},
 		{
 			"id": "picker_15",
@@ -4524,7 +4538,8 @@
 						}
 					]
 				}
-			]
+			],
+			"promotion": null
 		},
 		{
 			"id": "picker_16",
@@ -4810,7 +4825,8 @@
 						}
 					]
 				}
-			]
+			],
+			"promotion": null
 		},
 		{
 			"id": "picker_17",
@@ -5096,7 +5112,8 @@
 						}
 					]
 				}
-			]
+			],
+			"promotion": null
 		},
 		{
 			"id": "picker_18",
@@ -5382,7 +5399,8 @@
 						}
 					]
 				}
-			]
+			],
+			"promotion": null
 		},
 		{
 			"id": "picker_19",
@@ -5869,9 +5887,9 @@
 						}
 					]
 				}
-			]
+			],
+			"promotion": null
 		},
-
 		{
 			"id": "picker_20",
 			"categoryId": [3],
@@ -5961,7 +5979,8 @@
 					},
 					"items": []
 				}
-			]
+			],
+			"promotion": null
 		},
 		{
 			"id": "picker_21",
@@ -6052,7 +6071,8 @@
 					},
 					"items": []
 				}
-			]
+			],
+			"promotion": null
 		},
 		{
 			"id": "picker_22",
@@ -6107,7 +6127,8 @@
 					},
 					"items": []
 				}
-			]
+			],
+			"promotion": null
 		},
 		{
 			"id": "picker_23",
@@ -6177,7 +6198,8 @@
 						}
 					]
 				}
-			]
+			],
+			"promotion": null
 		},
 		{
 			"id": "picker_24",
@@ -6214,7 +6236,8 @@
 					},
 					"items": []
 				}
-			]
+			],
+			"promotion": null
 		},
 		{
 			"id": "picker_25",
@@ -6305,7 +6328,8 @@
 					},
 					"items": []
 				}
-			]
+			],
+			"promotion": null
 		},
 		{
 			"id": "picker_26",
@@ -6396,7 +6420,8 @@
 					},
 					"items": []
 				}
-			]
+			],
+			"promotion": null
 		},
 		{
 			"id": "picker_27",
@@ -6487,7 +6512,8 @@
 					},
 					"items": []
 				}
-			]
+			],
+			"promotion": null
 		},
 		{
 			"id": "picker_28",
@@ -6578,7 +6604,8 @@
 					},
 					"items": []
 				}
-			]
+			],
+			"promotion": null
 		},
 		{
 			"id": "picker_29",
@@ -6669,7 +6696,8 @@
 					},
 					"items": []
 				}
-			]
+			],
+			"promotion": null
 		},
 		{
 			"id": "picker_30",
@@ -6760,7 +6788,8 @@
 					},
 					"items": []
 				}
-			]
+			],
+			"promotion": null
 		},
 		{
 			"id": "picker_31",
@@ -6797,7 +6826,8 @@
 					},
 					"items": []
 				}
-			]
+			],
+			"promotion": null
 		},
 		{
 			"id": "picker_32",
@@ -6834,7 +6864,8 @@
 					},
 					"items": []
 				}
-			]
+			],
+			"promotion": null
 		},
 		{
 			"id": "picker_33",
@@ -6907,7 +6938,8 @@
 					},
 					"items": []
 				}
-			]
+			],
+			"promotion": null
 		},
 		{
 			"id": "picker_34",
@@ -6998,7 +7030,8 @@
 					},
 					"items": []
 				}
-			]
+			],
+			"promotion": null
 		},
 		{
 			"id": "picker_35",
@@ -7089,7 +7122,8 @@
 					},
 					"items": []
 				}
-			]
+			],
+			"promotion": null
 		},
 		{
 			"id": "picker_36",
@@ -7126,7 +7160,8 @@
 					},
 					"items": []
 				}
-			]
+			],
+			"promotion": null
 		},
 		{
 			"id": "picker_37",
@@ -7163,7 +7198,8 @@
 					},
 					"items": []
 				}
-			]
+			],
+			"promotion": null
 		},
 		{
 			"id": "picker_38",
@@ -7200,7 +7236,8 @@
 					},
 					"items": []
 				}
-			]
+			],
+			"promotion": null
 		},
 		{
 			"id": "picker_39",
@@ -7237,7 +7274,8 @@
 					},
 					"items": []
 				}
-			]
+			],
+			"promotion": null
 		},
 		{
 			"id": "picker_40",
@@ -7274,7 +7312,8 @@
 					},
 					"items": []
 				}
-			]
+			],
+			"promotion": null
 		},
 		{
 			"id": "picker_41",
@@ -7311,7 +7350,8 @@
 					},
 					"items": []
 				}
-			]
+			],
+			"promotion": null
 		},
 		{
 			"id": "picker_42",
@@ -7348,7 +7388,8 @@
 					},
 					"items": []
 				}
-			]
+			],
+			"promotion": null
 		},
 		{
 			"id": "picker_43",
@@ -7385,7 +7426,8 @@
 					},
 					"items": []
 				}
-			]
+			],
+			"promotion": null
 		},
 		{
 			"id": "picker_44",
@@ -7525,7 +7567,8 @@
 						}
 					]
 				}
-			]
+			],
+			"promotion": null
 		},
 		{
 			"id": "picker_45",
@@ -7701,7 +7744,8 @@
 						}
 					]
 				}
-			]
+			],
+			"promotion": null
 		},
 		{
 			"id": "picker_46",
@@ -7877,7 +7921,8 @@
 						}
 					]
 				}
-			]
+			],
+			"promotion": null
 		},
 		{
 			"id": "picker_47",
@@ -8017,7 +8062,8 @@
 						}
 					]
 				}
-			]
+			],
+			"promotion": null
 		}
 	]
 }
