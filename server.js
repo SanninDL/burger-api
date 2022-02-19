@@ -28,7 +28,7 @@ router.render = (req, res) => {
 	// check GET pagination
 	// if yes custom output
 	const headers = req.getheaders()
-	const totalCountHeader = ('x-total-count')
+	const totalCountHeader = headers('x-total-count')
 	if(req.method === 'GET' && totalCountHeader) {
 		const queryParams = queryString.parse(req._parsedUrl.query)
 		const result = {
@@ -42,7 +42,6 @@ router.render = (req, res) => {
 
 		return res.jsonp(result)
 	}
-
 
 	//ortherwise, keep default
 
