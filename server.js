@@ -27,7 +27,7 @@ server.use((req, res, next) => {
 router.render = (req, res) => {
 	// check GET pagination
 	// if yes custom output
-	const headers = req.getheaders()
+	const headers = res.getheaders()
 	const totalCountHeader = headers('x-total-count')
 	if(req.method === 'GET' && totalCountHeader) {
 		const queryParams = queryString.parse(req._parsedUrl.query)
