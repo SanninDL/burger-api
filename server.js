@@ -1,4 +1,3 @@
-
 const jsonServer = require('json-server')
 const server = jsonServer.create()
 const router = jsonServer.router('db.json')
@@ -29,15 +28,15 @@ router.render = (req, res) => {
 	// if yes custom output
 	const headers = res.getheaders()
 	const totalCountHeader = headers('x-total-count')
-	if(req.method === 'GET' && totalCountHeader) {
+	if (req.method === 'GET' && totalCountHeader) {
 		const queryParams = queryString.parse(req._parsedUrl.query)
 		const result = {
-			data = res.locals.data,
-			pagination:{
-				_page:  Number.parseInt(queryParams._page) || 1 ,
+			data: res.locals.data,
+			pagination: {
+				_page: Number.parseInt(queryParams._page) || 1,
 				_limit: Number.parseInt(queryParams._limit) || 10,
-				_totalRows: Number.parseInt(totalCountHeader)
-			}
+				_totalRows: Number.parseInt(totalCountHeader),
+			},
 		}
 
 		return res.jsonp(result)
