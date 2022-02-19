@@ -1,15 +1,9 @@
-// const jsonServer = require('json-server')
-// const server = jsonServer.create()
-// const router = jsonServer.router('db.json')
-// const middlewares = jsonServer.defaults()
-// const port = process.env.PORT || 3000
-// server.use(middlewares)
-// server.use(router)
-// server.listen(port)
+
 const jsonServer = require('json-server')
 const server = jsonServer.create()
 const router = jsonServer.router('db.json')
 const middlewares = jsonServer.defaults()
+const queryString = require('query-string')
 
 // Set default middlewares (logger, static, cors and no-cache)
 server.use(middlewares)
@@ -24,12 +18,38 @@ server.get('/echo', (req, res) => {
 server.use(jsonServer.bodyParser)
 server.use((req, res, next) => {
 	// if (req.method === 'POST') {
-// 		req.body.createdAt = Date.now()
+	// 		req.body.createdAt = Date.now()
 	// }
 	// Continue to JSON Server router
 	next()
 })
+// custom output  for List with pagination
+router.render = (req, res) => {
+	// check GET pagination
+	// if yes custom output
+	const headers = req.getheaders()
+	const totalCountHeader = ('x-total-count')
+	if(req.method === 'GET' && totalCountHeader) {
+		const queryParams = queryString.parse(req._parsedUrl.query)
+		const result = {
+			data = res.locals.data,
+			pagination:{
+				_page:  Number.parseInt(queryParams._page) || 1 ,
+				_limit: Number.parseInt(queryParams._limit) || 10,
+				_totalRows: Number.parseInt(totalCountHeader)
+			}
+		}
 
+		return res.jsonp(result)
+	}
+
+
+	//ortherwise, keep default
+
+	res.jsonp({
+		body: res.locals.data,
+	})
+}
 // Use default router
 server.use(router)
 // add 'api' into router : server.use('/api',router)
